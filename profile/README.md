@@ -1,7 +1,11 @@
 ## IndieDucks
 
 ## Who in the world are we?
-We are just a group 'o friends.
+We are just a group 'o friends... Making games.
+
+## Where's our stuff?
+You can find our official website at: [ENTER LINK]
+Games are on Itch! [INSERT LINK ON "Itch"]
 
 <!--
 
