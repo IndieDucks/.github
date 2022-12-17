@@ -1,5 +1,8 @@
 ## IndieDucks
 
+## Who in the world are we?
+We are just a group 'o friends.
+
 <!--
 
 **Here are some ideas to get you started:**
